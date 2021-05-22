@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1621671055 source:c:\users\Пользователь\desktop\projects\lab_5\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<locale.h>
+	"structure.h"
+	"list.h"
+
+1621671264 source:c:\users\Пользователь\desktop\projects\lab_5\add.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<locale.h>
+	"structure.h"
+	"add.h"
+
+1621668431 c:\users\Пользователь\desktop\projects\lab_5\structure.h
+
+1619617056 c:\users\Пользователь\desktop\projects\lab_5\add.h
+
+1621671038 source:c:\users\Пользователь\desktop\projects\lab_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"add.h"
+	"list.h"
+	"structure.h"
+
+1619622466 c:\users\Пользователь\desktop\projects\lab_5\list.h
+
+1621581339 source:c:\users\Пользователь\desktop\projects\lab_5\find.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"structure.h"
+	"node.h"
+
+1619757583 source:c:\users\Пользователь\desktop\projects\lab_5\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<locale.h>
+	"structure.h"
+	"delete.h"
+	"list.h"
+
+1619624468 c:\users\Пользователь\desktop\projects\lab_5\delete.h
+
+1620914628 c:\users\Пользователь\desktop\projects\lab_5\node.h
+
